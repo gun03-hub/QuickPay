@@ -1,12 +1,12 @@
 # QuickPay
 
-QuickPay is a secure and efficient payment processing platform designed to simplify transactions for businesses of all sizes. Our API enables seamless integration with existing systems, allowing merchants to accept various payment methods effortlessly.
+QuickPay is a secure and efficient payment processing platform built with React and Vite. It simplifies transactions for businesses of all sizes by providing an intuitive user interface for accepting various payment methods.
 
 ## Features
 
-- **Secure Transactions:** Ensures the safety of your customers' payment information.
-- **Easy Integration:** Simple API integration with existing business systems.
-- **Multiple Payment Methods:** Accepts credit/debit cards, digital wallets, and more.
+- **Secure Transactions:** Ensures the safety of customer payment information.
+- **Easy Integration:** Simple setup with Vite for fast development.
+- **Multiple Payment Methods:** Supports credit/debit cards and digital wallets.
 - **User-Friendly Interface:** Designed to enhance customer satisfaction and streamline payments.
 
 ## Getting Started
@@ -27,31 +27,13 @@ To get started with QuickPay, follow these steps:
    npm install
    ```
 
-3. **Set Up API Keys:**
+3. **Run the Application:**
 
-   Create a `.env` file and add your API keys:
-
-   ```plaintext
-   API_KEY=your_api_key
-   ```
-
-4. **Run the Application:**
-
-   Start the server with:
+   Start the development server with:
 
    ```bash
-   npm start
+   npm run dev
    ```
-
-## Usage
-
-To use the QuickPay API, make requests to the following endpoint:
-
-```
-POST /api/payment
-```
-
-Include the necessary payment details in the request body.
 
 ## Website
 
@@ -67,4 +49,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, please reach out to [4518gunjanarora@gmail.com](mailto:4518gunjanarora@gmail.com).
+For any inquiries, please reach out to [4518gunjanarora@gmail.com](mailto:4518gunjanarora@gmail.com].
